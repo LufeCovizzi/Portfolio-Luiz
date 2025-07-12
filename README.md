@@ -32,7 +32,8 @@ Conquistar uma oportunidade como **Desenvolvedor Full Stack**, onde eu possa apr
 
 ## 📬 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/luiz-fernando-covizzi/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/luiz-fernando-covizzi/)
+- 🔍 [Portfolio](https://lufecovizzi.github.io/Portfolio-Luiz/)
 - 📧 luizfccastilho@gmail.com
 
 ---
